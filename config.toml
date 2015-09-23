@@ -1,3 +1,54 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseUrl = "http://www.chien-calme.com/"
+
+languageCode = "fr-fr"
+title = "Chien Calme"
+
+theme = "chien-calme"
+description = "tooto"
+
+[params]
+    title="Des conseils pour maintenir l'équilibre et le bien-être de son chien "
+    sidebartitle = "My Site"
+    sidebartagline = "Is super awesome"
+	author = "Marie-George Clouet"
+
+[Taxonomies]
+    tag= "tags"
+    category= "categories"
+    series= "series"
+
+###############
+# Menu	
+###############
+[[menu.main]]
+    name = "Produits"
+    url = "/pages/produits"
+	weight = "1"
+[[menu.main]]
+    name = "Massage"
+    url = "/pages/massage"
+	weight = "2"
+[[menu.main]]
+    name = "Acuponcture"
+    url = "/pages/acuponcture"
+	weight = "3"
+[[menu.main]]
+    name = "Ostéopathie"
+    url = "/pages/osteopathie"
+	weight = "4"
+[[menu.main]]
+    name = "Hypnose"
+    url = "/pages/hypnose"
+	weight = "5"
+
+###############
+# Social
+###############
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "https://twitter.com/ChienCalme"
+    identifier = "twitter"
+[[menu.social]]
+    pre = "<i class='fa fa-facebook'></i>"
+    url = "https://www.facebook.com/chiencalme"
+    identifier = "facebook"
