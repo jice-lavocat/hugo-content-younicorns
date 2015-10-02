@@ -1,9 +1,9 @@
-baseUrl = "http://www.chien-calme.com/"
+baseUrl = "http://www.younicorns.xyz/"
 
 languageCode = "fr-fr"
-title = "Chien Calme"
+title = "Younicorns"
 
-theme = "chien-calme"
+theme = "themes/younicorns"
 description = "tooto"
 
 [params]
