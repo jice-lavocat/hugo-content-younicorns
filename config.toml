@@ -3,11 +3,11 @@ baseUrl = "http://www.younicorns.xyz/"
 languageCode = "fr-fr"
 title = "Younicorns"
 
-theme = "themes/younicorns"
-description = "tooto"
+theme = "younicorns"
+description = "Les news de toutes les startups (grosses ou petites)"
 
 [params]
-    title="Des conseils pour maintenir l'équilibre et le bien-être de son chien "
+    title="Les news de toutes les startups (grosses ou petites)"
     sidebartitle = "My Site"
     sidebartagline = "Is super awesome"
 	author = "Marie-George Clouet"
@@ -17,29 +17,7 @@ description = "tooto"
     category= "categories"
     series= "series"
 
-###############
-# Menu	
-###############
-[[menu.main]]
-    name = "Produits"
-    url = "/pages/produits"
-	weight = "1"
-[[menu.main]]
-    name = "Massage"
-    url = "/pages/massage"
-	weight = "2"
-[[menu.main]]
-    name = "Acuponcture"
-    url = "/pages/acuponcture"
-	weight = "3"
-[[menu.main]]
-    name = "Ostéopathie"
-    url = "/pages/osteopathie"
-	weight = "4"
-[[menu.main]]
-    name = "Hypnose"
-    url = "/pages/hypnose"
-	weight = "5"
+
 
 ###############
 # Social
