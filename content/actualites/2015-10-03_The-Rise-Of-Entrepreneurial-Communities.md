@@ -6,6 +6,7 @@ date: 2015-10-03
 categories: [actualites] 
 thumbnail: /images/thumbnails/2015-10-03_the-rise-of-communauts-entrepreneuriales.png
 teaserImage: /images/teaser/2015-10-03_the-rise-of-communauts-entrepreneuriales.png
+author: fred
 ---
 
 <p>Cet &#233;t&#233;, en tant que pr&#233;sident du Comit&#233; de la Chambre des petites entreprises, je eu l'occasion d'honorer un acc&#233;l&#233;rateur d'affaires innovant appel&#233; premier lot. </p>
