@@ -13,11 +13,13 @@ description = "Les news de toutes les startups (grosses ou petites)"
 	author = "Marie-George Clouet"
     facebookPage = "https://www.facebook.com/younicorns.xyz"
     twitterPage = "https://www.twitter.com/younicornsXYZ"
+    googlePage = "https://www.twitter.com/younicornsXYZ"
 
 [Taxonomies]
     tag= "tags"
     category= "categories"
     series= "series"
+    author = "authors"
 
 
 
