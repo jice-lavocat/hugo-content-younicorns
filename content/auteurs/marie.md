@@ -1,6 +1,5 @@
 ---
 title: "Auteur : Fred"
-layout: author
 author: marie
 twitter: http://www.twiter.com/fred
 thumbnail: "/images/actualites/massage-chiens.jpg"
