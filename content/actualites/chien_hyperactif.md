@@ -1,6 +1,6 @@
 ---
 title: " Comment calmer un chien hyperactif "
-layout: post
+
 tags: ['Stress']
 categories: [osteopathie, massage]
 date: 2015-04-23

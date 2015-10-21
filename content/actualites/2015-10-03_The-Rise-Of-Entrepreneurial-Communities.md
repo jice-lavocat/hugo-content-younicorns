@@ -1,6 +1,5 @@
 ---
 title: The Rise Of Communautés entrepreneuriales
-layout: "post"
 tags: ['Column','Startups','TC','STEM','accelerators','government funding','Education']
 date: 2015-10-03
 categories: [actualites] 

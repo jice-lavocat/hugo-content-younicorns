@@ -1,6 +1,6 @@
 ---
 title: "Comment nos chiens voient le monde ? Avec leur nez !"
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-02-03
 categories: [produits]

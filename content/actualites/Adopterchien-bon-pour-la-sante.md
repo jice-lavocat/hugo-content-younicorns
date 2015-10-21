@@ -1,6 +1,6 @@
 ---
 title: "Adopter un chien améliore votre capital santé ! "
-layout: post
+
 tags: ['Stress']
 categories: [massage]
 date: 2015-06-15

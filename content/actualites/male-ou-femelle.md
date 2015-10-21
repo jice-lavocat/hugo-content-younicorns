@@ -1,6 +1,6 @@
 ---
 title: "Mâle ou femelle : quel est le/la plus calme ?"
-layout: post
+
 tags: ['Stress']
 categories: [massage]
 date: 2015-01-14

@@ -1,6 +1,6 @@
 ---
 title: "Bientôt les vacances de Février : testez le skijoring !"
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-01-26
 categories: [ natation]

@@ -1,6 +1,6 @@
 ---
 title: "Tout ce que vous ne savez peut-être pas sur les caresses. !"
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-04-09
 categories: [massage]

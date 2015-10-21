@@ -1,6 +1,6 @@
 ---
 title: "Chien de chasse,  chiens de garde :les animaux deviennent phénomènes de mode"
-layout: post
+
 tags: [stress','Soulagement ']
 date: 2014-12-02
 categories: ["produits", " yoga "]

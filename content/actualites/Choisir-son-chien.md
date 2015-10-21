@@ -1,6 +1,6 @@
 ---
 title: "Quel chien est fait pour vous ?"
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-02-04
 categories: [anxiété départ]

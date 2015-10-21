@@ -1,6 +1,6 @@
 ---
 title: "Votre chien déteste être pris au collier ? Comment éviter ces réactions ?"
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-03-02
 categories: [acuponcture, anxiété départ]

@@ -1,6 +1,6 @@
 ---
 title: "Et si nos chiens se mettaient tous au bio ? "
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-02-12
 categories: ["produits, massage"]

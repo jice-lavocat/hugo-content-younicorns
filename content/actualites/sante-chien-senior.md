@@ -1,6 +1,5 @@
 ---
 title: "Santé du chien senior: 6 conseils pour l'aider à bien vieillir "
-layout: post
 tags: ['Stress']
 categories: [massage, produit]
 date: 2015-08-25

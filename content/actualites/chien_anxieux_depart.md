@@ -1,6 +1,6 @@
 ---
 title: "Vous partez, votre chien hurle : que faire pour l'apaiser ?"
-layout: post
+
 tags: ['aboiement', 'ostéopathie']
 categories: ["produits"]
 author: Marie-George Clouet

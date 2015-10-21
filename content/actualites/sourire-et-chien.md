@@ -1,6 +1,6 @@
 ---
 title: "Alors heureux ? Inutile de le dire à votre chien !"
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-02-17
 categories: [ anxiété départ]

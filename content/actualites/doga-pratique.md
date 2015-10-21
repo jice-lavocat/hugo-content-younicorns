@@ -1,6 +1,6 @@
 ---
 title: "Regalez-vous avec votre chien, pratiquez le doga ! "
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-05-04
 categories: [massage, anxiété départ]

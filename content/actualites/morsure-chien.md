@@ -1,6 +1,5 @@
 ---
 title: "Morsure et chien: comment réagir? Quels soins apporter ?"
-layout: post
 tags: ['anxiété' ]
 date: 2015-08-17
 categories: [produits]

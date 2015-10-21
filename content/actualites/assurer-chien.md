@@ -1,6 +1,6 @@
 ---
 title: " Assurer son chien est-ce nécessaire ? "
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-07-08
 categories: [osthéopathie]

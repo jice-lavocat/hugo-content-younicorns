@@ -1,6 +1,6 @@
 ---
 title: "Langage corporel canin : fatigue et signaux d'alarme "
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-01-17
 categories: ["hypnose"]

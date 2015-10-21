@@ -1,6 +1,6 @@
 ---
 title: "Fatigue du chien : quand doit-on consulter ?"
-layout: post
+
 tags: ['massage canin','massage chien']
 date: 2015-01-22
 categories: [massage]

@@ -1,6 +1,6 @@
 h---
 title: "Les 10 comportements que  nous chiens détestent "
-layout: post
+
 tags: ['Stress']
 categories: [massage]
 date: 2015-02-06

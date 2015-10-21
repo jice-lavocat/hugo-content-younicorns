@@ -1,6 +1,6 @@
 ---
 title: "Tout sur le canicross : interview de Cynthia Dionne."
-layout: post
+
 tags: ['aboiement', 'ostéopathie']
 categories: ["produits"]
 author: Marie-George Clouet

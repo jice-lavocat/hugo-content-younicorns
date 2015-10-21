@@ -1,11 +1,13 @@
 ---
 title: "Auteur : Fred"
 author: marie
+authorName: Marie Dupont
+authorImage: /images/auteurs/author_mg.png
 twitter: http://www.twiter.com/fred
-thumbnail: "/images/actualites/massage-chiens.jpg"
-Description : "Fred est un bon auteur"
+facebook: http://www.twiter.com/marie
+linkedin: http://www.twiter.com/marie
+google: http://www.twiter.com/marie
+description : "Marie écrit sur les animaux"
 ---
 
-Le **massage** : un geste qui détend votre animal
-
-Fred est un bon auteur
+Marie est toujours partante pour écrire sur les animaux

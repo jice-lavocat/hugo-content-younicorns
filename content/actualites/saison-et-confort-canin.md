@@ -1,6 +1,6 @@
 ---
 title: "Protéger son chien contre le froid: une necessité pour son confort et sa santé"
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-01-09
 categories: [ massage]

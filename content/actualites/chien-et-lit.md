@@ -1,6 +1,6 @@
 ---
 title: "Votre chien dort-il sur votre lit ? "
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-02-25
 categories: ["massage"]

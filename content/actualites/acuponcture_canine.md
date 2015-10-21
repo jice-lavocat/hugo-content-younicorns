@@ -1,7 +1,7 @@
 
 ---
 title: "Acuponcture animale : une thérapie qui prend de l'ampleur"
-layout: post
+
 tags: ['anxiété' ]
 date: 2014-11-15
 categories: [acuponcture, anxiété départ]

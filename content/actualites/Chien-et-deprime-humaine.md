@@ -1,6 +1,6 @@
 ---
 title: " Vous êtes déprimé : quel impact sur votre chien ?? "
-layout: post
+
 tags: ['anxiété' ]
 date: 2015-05-20
 categories: ["produits"]

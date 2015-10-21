@@ -1,6 +1,6 @@
 ---
 title: "Mal aux Canines et c'est le stress : des dents saines  !"
-layout: post
+
 tags: ['doga','yoga canin']
 date: 2015-01-11
 categories: [produits]
