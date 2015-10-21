@@ -6,6 +6,8 @@ title = "Younicorns"
 theme = "younicorns"
 description = "Les news de toutes les startups (grosses ou petites)"
 
+DisqusShortname = "younicornsxyz"
+
 [params]
     title="Les news de toutes les startups (grosses ou petites)"
     sidebartitle = "My Site"
@@ -13,7 +15,13 @@ description = "Les news de toutes les startups (grosses ou petites)"
 	author = "Marie-George Clouet"
     facebookPage = "https://www.facebook.com/younicorns.xyz"
     twitterPage = "https://www.twitter.com/younicornsXYZ"
+    twitterHandle = "younicornsXYZ"
     googlePage = "https://www.twitter.com/younicornsXYZ"
+    descriptionFooter = "YounicornsXYZ est un site d'actualités sur le milieu des startups. Nous essayons de vous fournir une information neutre et instantanée."
+    copyright = "Younicorns.xyz"
+    address = "@Numa : 39 rue du Caire, 75002 Paris, FRANCE"
+    phone = "+336 46 37 49 26"
+    contactEmail = "contact@younicorns.xyz"
 
 [Taxonomies]
     tag= "tags"
