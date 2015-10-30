@@ -11,7 +11,7 @@ description: "L'information pouyr les startups, par une startup. On y parle de F
     <div class="hero">
         <div class="row">
             <div class="col-lg-5">
-                <img class="img-responsive" src="/images/accueilzenchien-4.jpg" style="height:250px; margin: 0 auto;" />
+                <img class="img-responsive" src="/images/younicorn.gif" style="height:250px; margin: 0 auto;" />
                 <div class="intro-text">
                     Bienvenue sur le site des licornes ! Faites le plein d'infos hors du commun !
                 </div>
@@ -25,11 +25,3 @@ description: "L'information pouyr les startups, par une startup. On y parle de F
     </div>
 </header>
 
-<!-- Example row of columns -->
-<div class="row macolumn" class="text-center">
-	<div class="col-lg-12">
-		<h2>Un chien serein en 5 étapes</h2>
-        <p>Tout comme l'humain en effet, son meilleur ami à 4 pattes peut présenter des comportements très lourds à gérer : être capable d'avoir un chien calme ou de le calmer en cas de situations perçues comme agressives est donc l'objet de ces pages. Comment aider notre animal à trouver ou retrouver une attitude apaisée et détendue ? Cinq grands types de réponses au stress canin existent, à tester selon l'origine des troubles, leur importance et leur recurrence.</p>
-	</div>
-	
-</div>
